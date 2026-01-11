@@ -19,6 +19,8 @@ Convert HuggingFace models and fine-tuned checkpoints to GGUF format for blazing
 
 ### GUI Interface
 ![GGUF Converter Studio GUI](screenshot.png)
+![GGUF Converter Studio GUI](screenshot2.png)
+
 *Smart quantization recommendations based on your hardware*
 
 ### CLI Output
